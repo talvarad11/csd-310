@@ -17,7 +17,7 @@ for doc in docs:
 
 print("")
 
-print("-- DISPLAYING STUDENTR DOCUMENTS FROM fine_one() QUERY --")
+print("-- DISPLAYING STUDENTS DOCUMENTS FROM fine_one() QUERY --")
 student_name_1 = students.find_one({"student_id": 1008})
 print("\nStudent ID: ", student_name_1["student_id"], "\nFirst Name: ", student_name_1["first_name"], "\nLast Name: ", student_name_1["last_name"])
 
