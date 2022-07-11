@@ -1,0 +1,7 @@
+This text file shows a brief description of all the python scripts Charlie Group created in order to make our winery database.
+
+winery_createtablesfinal - shows how we created tables
+winery_insertdistributors - shows how we inserted distributor information into table
+winery_insertemployees - shows how we inserted employee information into table
+winery_insertsuppliersfinal - shows how we inserted suppler information into table
+winery_showalldatafinal - shows all data in our winery database
